@@ -1,0 +1,16 @@
+body{
+	background-color:#444;
+}
+
+.holder{
+	max-width:700px;
+	margin:40px auto;
+}
+.holder .title{
+	margin-bottom:40px;
+}
+.holder .title span{
+	color:#fff;
+	font-family:sans-serif,Arial, Helvetica, sans-serif;
+	font-size:14pt;
+}
